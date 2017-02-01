@@ -1,6 +1,6 @@
 # Recommended Books and Websites
 
-**Books**
+### Books ###
 
 * Cracking the Coding Interviews by Gayle Laakmann McDowell
 
@@ -11,7 +11,7 @@ The Bible of guides to technical interviews. The coding questions can seem simpl
 Beautifully written to get students interested in algorithms. I personally love the War Stories that the author recalled from his own experience in teaching and in working with the tech industry. It shows you how important it is to know your algorithms and how the seemingly theoretical CS-200 Algorithm Analysis is actually quite practical in the real world.
 
 
-**Websites**
+### Websites ###
 
 * [LeetCode Online Judge](https://leetcode.com)
 
@@ -23,6 +23,6 @@ Problems are separated by many topics, ranging from learning C to Cybersecurity.
 
 * [ACM-ICPC Live Archive](https://icpcarchive.ecs.baylor.edu)
 
-An archive of previous ACM problems. User interface might not be too friendly but the collection of ACM problems is truly amazing :) 
+An archive of previous ACM problems. User interface might not be very friendly but the collection of ACM problems is truly amazing :) 
 
 
