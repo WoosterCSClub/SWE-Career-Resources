@@ -10,8 +10,13 @@ The Bible of guides to technical interviews. The coding questions can seem simpl
 
 Beautifully written to get students interested in algorithms. I personally love the War Stories that the author recalled from his own experience in teaching and in working with the tech industry. It shows you how important it is to know your algorithms and how the seemingly theoretical CS-200 Algorithm Analysis is actually quite practical in the real world.
 
+### Where to find internships/jobs ###
 
-### Websites ###
+* [](https://news.ycombinator.com/jobs)
+
+* [](http://www.intern.supply)
+
+### Practice Websites ###
 LeetCode and Hackerrank are relatively easier than the other two.
 
 * [LeetCode Online Judge](https://leetcode.com)
