@@ -12,9 +12,9 @@ Beautifully written to get students interested in algorithms. I personally love 
 
 ### Where to find internships/jobs ###
 
-* [](https://news.ycombinator.com/jobs)
+* [https://news.ycombinator.com/jobs]
 
-* [](http://www.intern.supply)
+* [http://www.intern.supply]
 
 ### Practice Websites ###
 LeetCode and Hackerrank are relatively easier than the other two.

@@ -11,6 +11,6 @@ This page contains useful LaTeX templates for resumes catered to the tech indust
 
 Here are the links:
 
-* [https://github.com/deedy/Deedy-Resume](https://github.com/deedy/Deedy-Resume)
+* [https://github.com/deedy/Deedy-Resume]
 
-* [https://www.sharelatex.com/templates/cv-or-resume/awesome-cv](https://www.sharelatex.com/templates/cv-or-resume/awesome-cv)
+* [https://www.sharelatex.com/templates/cv-or-resume/awesome-cv]
