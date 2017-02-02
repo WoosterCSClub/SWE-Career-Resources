@@ -12,6 +12,7 @@ Beautifully written to get students interested in algorithms. I personally love 
 
 
 ### Websites ###
+LeetCode and Hackerrank are relatively easier than the other two.
 
 * [LeetCode Online Judge](https://leetcode.com)
 
@@ -25,4 +26,6 @@ Problems are separated by many topics, ranging from learning C to Cybersecurity.
 
 An archive of previous ACM problems. User interface might not be very friendly but the collection of ACM problems is truly amazing :) 
 
+* [Open Kattis](https://open.kattis.com)
 
+A practice platform full of ACM-like problems with better user interface than the ACM archive above. 
